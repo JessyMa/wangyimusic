@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no"/>
+    <title>Title</title>
+    <link rel="stylesheet" href="css/swiper.min.css">
+    <link rel="stylesheet" href="css/style.css">
+
+
+
+</head>
+<body>
+    <div id="share">
+
+    </div>
+<div id="globel">
+
+</div>
+</body>
+</html>
+<script src="js/jquery-3.1.0.min.js" type="text/javascript"></script>
+<script src="js/swiper.min.js" type="text/javascript"></script>
+<script src="js/app.js" type="text/javascript"></script>
+<script>
+    function fontr() {
+        var cw=cw>750?750:document.documentElement.clientWidth;
+        var hw=document.getElementsByTagName('html')[0];
+        hw.style.fontSize=cw/7.5+'px';
+    };
+    fontr();
+    window.onresize=fontr;
+</script>

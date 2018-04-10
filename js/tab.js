@@ -1,6 +1,4 @@
-/**
- * Created by hxsd on 2017/8/17.
- */
+
 
 $(function () {
     router('home',$('#tabcon'));

@@ -1,6 +1,4 @@
-/**
- * Created by hxsd on 2017/8/16.
- */
+
 function getUrlParams(){
     var url=window.location.href;
     var arr=url.split('?');

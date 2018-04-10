@@ -21,7 +21,7 @@ function getM(){
     }
     return(mod);
 }
-console.log(getM());
+// console.log(getM());
 // console.log(getUrlParams());
 function router(m,$container){
     $container=$container || $('#share');

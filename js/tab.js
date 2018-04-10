@@ -15,6 +15,6 @@ $(function () {
         router('v2',$('#tabcon'));
     })
     $('#dan').click(function(){
-        router('order',$('#globel'));
+        router('order',$('#tabcon'));
     })
 });

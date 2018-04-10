@@ -22,7 +22,7 @@ function getM(){
     return(mod);
 }
 console.log(getM());
-console.log(getUrlParams());
+// console.log(getUrlParams());
 function router(m,$container){
     $container=$container || $('#share');
     $.ajax({

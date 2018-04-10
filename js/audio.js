@@ -1,6 +1,4 @@
-/**
- * Created by hxsd on 2017/8/18.
- */
+
 var musurl;
 //var curren;
 var mControler={

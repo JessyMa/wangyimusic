@@ -1,6 +1,4 @@
-/**
- * Created by hxsd on 2017/8/17.
- */
+
 var params=getUrlParams();
 // console.log(params.id);
 var id=params.id;

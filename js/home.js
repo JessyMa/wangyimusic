@@ -1,6 +1,4 @@
-/**
- * Created by hxsd on 2017/8/17.
- */
+
 var temp;
 $(function(){
     var mySwiper = new Swiper ('.swiper-container', {

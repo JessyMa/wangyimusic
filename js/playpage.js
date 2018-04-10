@@ -1,6 +1,4 @@
-/**
- * Created by iPrime on 2017/8/20.
- */
+
 $('#songName').html(thesong.name);
 $('#artist').html(thesong.ar[0].name);
 $("#player").attr('src',musurl);
